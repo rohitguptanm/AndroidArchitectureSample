@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         // make practice for stash
 
         // new changes after merging in master
+
+        // some changes in branch10 after merging
     }
 }
