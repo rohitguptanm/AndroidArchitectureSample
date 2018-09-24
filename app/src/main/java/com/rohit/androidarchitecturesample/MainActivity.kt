@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // something change
         // new branch created
+        // make practice for stash
     }
 }
