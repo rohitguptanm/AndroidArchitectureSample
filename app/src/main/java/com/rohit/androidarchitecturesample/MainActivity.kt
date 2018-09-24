@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         // new changes after merging in master
 
         // some changes in branch10 after merging
+        
+        // changes from github website
     }
 }
