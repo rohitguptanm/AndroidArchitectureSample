@@ -37,6 +37,8 @@ class HomeActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         } else {
             super.onBackPressed()
         }
+
+        // nav drawer branch 10 changes in onBackpressed
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
