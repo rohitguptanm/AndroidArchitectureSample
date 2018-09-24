@@ -29,6 +29,8 @@ class HomeActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         toggle.syncState()
 
         nav_view.setNavigationItemSelectedListener(this)
+
+        // nav drawer in  master branches
     }
 
     override fun onBackPressed() {
