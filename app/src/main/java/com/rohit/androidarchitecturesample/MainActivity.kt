@@ -25,4 +25,12 @@ class MainActivity : AppCompatActivity() {
     fun doSomeFun(){
         println("Added some data in branch200")
     }
+
+    fun doSomeChange(){
+        //some changes in master also
+    }
+
+    fun doSomeFun(){
+        println("i am updating some value in branch10")
+    }
 }
