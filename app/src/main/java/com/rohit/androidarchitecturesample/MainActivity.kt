@@ -22,11 +22,8 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun doSomeFun(){
-        println("Added some data in branch200")
-    }
-
-    fun doSomeChange(){
-        //some changes in master also
+    fun methd(){
+        var i =320
+        var yy=240
     }
 }
