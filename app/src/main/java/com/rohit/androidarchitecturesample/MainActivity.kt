@@ -16,4 +16,8 @@ class MainActivity : AppCompatActivity() {
 
         // some changes in branch10 after merging
     }
+
+    fun doSomeFun(){
+        println("i am updating some value in branch10")
+    }
 }
