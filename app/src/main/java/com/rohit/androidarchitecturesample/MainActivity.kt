@@ -21,9 +21,8 @@ class MainActivity : AppCompatActivity() {
         // changes from github website
 
     }
-
-    fun methd(){
-        var i =320
-        var yy=240
-    }
+     fun methd(){
+         var i =80
+         var yy=60
+     }
 }
