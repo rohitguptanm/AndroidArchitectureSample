@@ -15,6 +15,19 @@ class MainActivity : AppCompatActivity() {
         // new changes after merging in master
 
         // some changes in branch10 after merging
+
+        // again i am changing something
+
+        // changes from github website
+
+    }
+
+    fun doSomefun(){
+        println("Added some data in branch200")
+    }
+
+    fun doSomeChange(){
+        //some changes in master also
     }
 
     fun doSomeFun(){
