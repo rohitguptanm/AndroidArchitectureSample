@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun doSomefun(){
+    fun doSomeFun(){
         println("Added some data in branch200")
     }
 
