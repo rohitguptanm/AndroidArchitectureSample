@@ -20,4 +20,8 @@ class MainActivity : AppCompatActivity() {
 
         // changes from github website
     }
+
+    fun doSomeChange(){
+        //some changes in master also
+    }
 }
