@@ -21,16 +21,8 @@ class MainActivity : AppCompatActivity() {
         // changes from github website
 
     }
-
-    fun doSomeFun(){
-        println("Added some data in branch200")
-    }
-
-    fun doSomeChange(){
-        //some changes in master also
-    }
-
-    fun doSomeFun(){
-        println("i am updating some value in branch10")
-    }
+     fun methd(){
+         var i =80
+         var yy=60
+     }
 }
