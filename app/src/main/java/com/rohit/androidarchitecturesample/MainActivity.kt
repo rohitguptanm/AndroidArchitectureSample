@@ -25,4 +25,6 @@ class MainActivity : AppCompatActivity() {
          var i =80
          var yy=60
      }
+
+    // jsut checking test
 }
